@@ -1,0 +1,2 @@
+# NuxtProject
+DPSNuxt
